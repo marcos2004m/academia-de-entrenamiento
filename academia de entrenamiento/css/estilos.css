@@ -206,10 +206,10 @@ border-radius: 32px;
 }
 
 .questions__show{
+    color: var(--color-title);
     text-align: left;
     height: 0;
-    transition:  .3s;
-    color: #d15f02;
+    transition: height .3s;
 }
 
 .questions__img{
